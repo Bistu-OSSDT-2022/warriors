@@ -23,13 +23,17 @@ Division of labor
 
 贾子山：PPT撰写、产品设计
 
-Instruction
+Introduction
 ====
-以Java为主导
+以Java为主导的实用计算器，代码还在加紧编写中。。。
 
 How To Work
 ====
-read in code
+read in ‘code’
+
+Resbonsible
+====
+开摆不队 Not Rotten
 
 How To contribute
 ====
