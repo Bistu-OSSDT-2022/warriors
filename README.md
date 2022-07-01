@@ -2,15 +2,15 @@
 
 安卓“智能”开摆计算器
 ====
-由全员帅哥的开摆不队小组协作制作而成，可以进行1M次基础数学和三角函数循环运算，以及100k次矩阵循环运算，功能强大，并且能够实现中英文两种语言随意切换，可满足不同用户的需求。
+由全员帅哥的开摆不队小组协作制作而成，可以进行1M次基础数学和三角函数循环运算，以及100k次矩阵循环运算，功能强大，并且能够实现中英文两种语言随意切换，可满足不同用户的需求。这个项目由Java编写，现已推出3.1.1版本。
 
 Members
 ====
-贾子山
+贾子山（GitHub username：2facinating）
 
-王禹波
+王禹波（GitHub username：1scrwAm）
 
-张远恒
+张远恒（jike2101zyh）
 
 Division of labor
 ====
@@ -36,7 +36,7 @@ How To contribute
 ====
 Pull requests and do everything you want
 
-About
+Join us
 ====
 We sincerely recommend you to join our Bistu family and work together for open-source
 
