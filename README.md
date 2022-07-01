@@ -27,7 +27,7 @@ How To Work
 ====
 please read in 'code'
 
-Resbonsible
+Management
 ====
 开摆不队 Not Rotten
 
@@ -42,6 +42,14 @@ We sincerely recommend you to join our Bistu family and work together for open-s
 LICENSE
 ====
 MIT
+
+Version
+====
+现已推出3.1.1版本，历史版本请参阅代码库
+
+Wiki
+====
+Wiki
 
 Special thank
 ====
